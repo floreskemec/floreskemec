@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gonzalo
-- 👀 I’m interested in coding, data science, and Social Sciences.
-- 🌱 I’m currently learning Java, Python, Data Analysis, Data Science.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding and data.
+- 🌱 I’m currently learning Data Engineering.
 - 📫 How to reach me: floreskemec@gmail.com
 
 <!---

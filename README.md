@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Gonzalo
 - 👀 I’m interested in coding and data.
-- 🌱 I’m currently learning Data Engineering.
+- I know Java, C# and Python.
+- 🌱 I’m currently working with Python and Data Engineering.
 - 📫 How to reach me: floreskemec@gmail.com
 
 <!---

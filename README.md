@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Gonzalo Flores 👋</h1>
+<h1 align="center">Gonzalo Flores Kemec</h1>
 
 <p align="center">
   <b>Senior Backend &amp; Platform Engineer</b><br/>

@@ -5,7 +5,7 @@
   Cloud Infrastructure · Data Systems · System Architecture
 </p>
 
-<p align="center">📍 Mendoza, Argentina · Remoto</p>
+<p align="center"> Mendoza, Argentina · Remoto</p>
 
 ---
 
@@ -15,11 +15,11 @@ infraestructura de datos gobernada. Soy dueño de los sistemas de punta a punta
 analíticos— en entornos regulados donde la auditabilidad y la confiabilidad son
 requisitos de primera clase.
 
-- 🏗️ **Plataforma & Infra:** GCP, Terraform/OpenTofu, Docker, CI/CD, IAM y seguridad.
-- 🐍 **Backend:** Python (FastAPI, Django), arquitecturas event-driven y secure-by-design.
-- 📊 **Datos:** CDC/streaming (PostgreSQL → Datastream → BigQuery), Spark/Dataflow, BI (Superset).
-- 🤖 **AI-assisted engineering:** desarrollo de servidores MCP propios y agentes de código.
-- 🎓 Lic. en Sociología Económica (UNCuyo) + Full Stack Java — un perfil que une negocio, datos e ingeniería.
+-  **Plataforma & Infra:** GCP, Terraform/OpenTofu, Docker, CI/CD, IAM y seguridad.
+-  **Backend:** Python (FastAPI, Django), arquitecturas event-driven y secure-by-design.
+-  **Datos:** CDC/streaming (PostgreSQL → Datastream → BigQuery), Spark/Dataflow, BI (Superset).
+-  **AI-assisted engineering:** desarrollo de servidores MCP propios y agentes de código.
+-  Lic. en Sociología Económica (UNCuyo) + Full Stack Java — un perfil que une negocio, datos e ingeniería.
 
 ### Stack
 
